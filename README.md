@@ -1,4 +1,4 @@
-## 👋Hi, I'm @bad3vryday  
+## 👋Hi, I'm @bad3vryday        kegke
 ## 💻I’m interested in Software Development.
 ## 👨🏾‍💻I’m currently learning HTML,CSS,Javascript.
 ## 🫱🏾‍🫲🏻I’m looking forward to collaborate on projects. 
