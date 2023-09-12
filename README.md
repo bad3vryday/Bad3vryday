@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oyeniran Al-Ameen</h1>
-<h3 align="center">A passionate frontend developer from Lagos,NG.</h3>
+<h4 align="center">A Passionate Frontend Developer from LAGOS,NG.</h4>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bad3vryday" alt="bad3vryday" /></a> </p>
 
 - 💻 I’m interested in **Software Development.**
 
